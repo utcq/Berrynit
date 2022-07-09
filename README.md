@@ -39,9 +39,9 @@ sudo cp berrynit /usr/bin/
 
 # Screenshots
 
-[![Image](https://i.imgur.com/akeDZrq.png)]
+![Image](https://i.imgur.com/akeDZrq.png)
 
-[![Image](https://i.imgur.com/ImTemZi.png)]
+![Image](https://i.imgur.com/ImTemZi.png)
 
 # Social
 
