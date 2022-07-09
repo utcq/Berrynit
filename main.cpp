@@ -131,7 +131,11 @@ int main(int argc, char** argv) {
             return 0;
         } 
         else {
-            cuname = argv[3];
+            std::string cmm = std::string(argv[2]);
+            std::string homedir = getenv("HOME");
+            std::string pathx = homedir + "/.config/berrynit/";
+            cuname = pathx + cmm + ".json";
+            std::cout << cuname << std::endl;
         }
         //pass
     }
