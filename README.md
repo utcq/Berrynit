@@ -26,7 +26,11 @@ Useful for saving time
 
 # Installation
 
-Just download the compiled from releases and put it in **/usr/bin/**
+```bash
+git clone https://github.com/UnityTheCoder/Berrynit/
+cd Berrynit
+sudo cp bin/berrynit /usr/bin/
+```
 
 # Compiling From Source
 
