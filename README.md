@@ -47,6 +47,13 @@ sudo cp berrynit /usr/bin/
 
 ![Image](https://i.imgur.com/ImTemZi.png)
 
+
+# Thanks
+
+> Thanks open-source-parsers for jsoncpp
+> https://github.com/open-source-parsers/jsoncpp
+
+
 # Social
 
 
